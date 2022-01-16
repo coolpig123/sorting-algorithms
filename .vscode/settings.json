@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "atomic": "cpp",
+        "forward_list": "cpp",
+        "ios": "cpp",
+        "system_error": "cpp",
+        "xiosbase": "cpp",
+        "xtree": "cpp",
+        "chrono": "cpp"
+    }
+}
